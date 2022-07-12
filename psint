@@ -1,0 +1,5 @@
+Realice un seudocódigo que permita obtener y mostrar la suma de la siguiente serie:
+
+serie = 3 + 6 + 9 + 12 + 15 +…+ 3n 
+
+El valor de n debe ser ingresado desde el teclado por el usuario. Verificar n>0
