@@ -1,0 +1,14 @@
+Proceso Suma
+	Definir numeroN como entero;
+
+	Escribir "Ingrese el valor de N";
+	leer numeroN;
+	
+	Escribir "el resultado de la operacion";
+	Escribir "3 + 6 + 9 + 12 + 15 + 18 + 21 + 3n es: ";
+	Escribir 3 + 6 + 9 + 12 + 15 + 18 + 21 + 3 * numeroN;
+	
+	si numeroN > 0 Entonces
+		Escribir "N es mayor a 0";
+	FinSi
+FinProceso
