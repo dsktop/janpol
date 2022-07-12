@@ -1,0 +1,20 @@
+Dado el siguiente diccionario:
+
+futbol={2020:{"U.Chile":[25,8,1,9],"UC":[27,9,0,9],"Everton":[33,9,6,3],"Coquimbo":[29,9,2,7],	"Antofagasta":[28,6,9,3],"Iquique":[30,7,9,2]},2021:{"Palestino":[24,8,0,10],"Antofagasta":[28,9,1,8],"Cobresal":[27,9,0,9],	"Everton":[35,9,8,1],"UC":[20,5,5,8]}}
+
+Donde:
+
+La clave es el año del torneo y el valor es un diccionario que tiene por clave el nombre de los equipos participantes junto a una lista que indica lo siguiente:
+
+Primer elemento : los puntos obtenidos durante el campeonato
+Segundo elemento: los partidos ganados
+Tercer elemento : los partidos empatados
+Cuarto elemento : los partidos perdidos
+Realice las siguientes operaciones:
+
+Muestre SOLO el nombre de todos los equipos que participaron en el torneo 2020
+Muestre el puntaje que obtuvo el club Palestino en el torneo 2021
+Agregue al torneo 2021 un nuevo equipo, Curico con los siguientes datos: Puntos: 30 Part. Ganados 8 Part. Empatados 6 y Part. Perdidos 4
+Realice un programa que busque y muestre los nombres de los equipos que obtuvieron mas de 8 derrotas en el torneo 2021.
+Busque y muestre el nombre del equipo campeón del torneo 2020.
+Muestre una lista de equipos que hayan competido en ambos torneos (2020 y 2021)
